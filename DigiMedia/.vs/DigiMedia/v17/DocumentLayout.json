@@ -1,0 +1,757 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:viewmodels\\memberregistervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\viewmodels\\memberloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:viewmodels\\memberloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807CDEBC-A1F3-4BB3-8D7F-72E3361A25EC}|..\\DigiMedia.Core\\DigiMedia.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\Migrations\\20240520113754_UsersTableCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEB079-14B6-4654-94F0-2D1307649F2A}|..\\DigiMedia.Data\\DigiMedia.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0EE842-7E55-49C3-A123-02ACB997AF7C}|..\\DigiMedia.Business\\DigiMedia.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0EE842-7E55-49C3-A123-02ACB997AF7C}|..\\DigiMedia.Business\\DigiMedia.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.business\\extensions\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\slider\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0EE842-7E55-49C3-A123-02ACB997AF7C}|..\\DigiMedia.Business\\DigiMedia.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.business\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0EE842-7E55-49C3-A123-02ACB997AF7C}|..\\DigiMedia.Business\\DigiMedia.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.business\\digimedia.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0EE842-7E55-49C3-A123-02ACB997AF7C}|..\\DigiMedia.Business\\DigiMedia.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.business\\exceptions\\fileenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0EE842-7E55-49C3-A123-02ACB997AF7C}|..\\DigiMedia.Business\\DigiMedia.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.business\\exceptions\\imagesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0EE842-7E55-49C3-A123-02ACB997AF7C}|..\\DigiMedia.Business\\DigiMedia.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.business\\exceptions\\imagecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0EE842-7E55-49C3-A123-02ACB997AF7C}|..\\DigiMedia.Business\\DigiMedia.Business.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.business\\services\\abstracts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEB079-14B6-4654-94F0-2D1307649F2A}|..\\DigiMedia.Data\\DigiMedia.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.data\\repositoryconcretes\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEB079-14B6-4654-94F0-2D1307649F2A}|..\\DigiMedia.Data\\DigiMedia.Data.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78ECFF0E-5B85-4955-A581-46446DC850FE}|DigiMedia.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807CDEBC-A1F3-4BB3-8D7F-72E3361A25EC}|..\\DigiMedia.Core\\DigiMedia.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.core\\repositoryabstracts\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807CDEBC-A1F3-4BB3-8D7F-72E3361A25EC}|..\\DigiMedia.Core\\DigiMedia.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807CDEBC-A1F3-4BB3-8D7F-72E3361A25EC}|..\\DigiMedia.Core\\DigiMedia.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807CDEBC-A1F3-4BB3-8D7F-72E3361A25EC}|..\\DigiMedia.Core\\DigiMedia.Core.csproj|c:\\users\\ca.r214.14\\desktop\\sirachuseynov\\digimedia.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FEB079-14B6-4654-94F0-2D1307649F2A}|..\\DigiMedia.Data\\DigiMedia.Data.csproj|C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\Migrations\\20240520104311_CreateSliderTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\ViewModels\\MemberLoginVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MemberLoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\ViewModels\\MemberLoginVm.cs",
+              "RelativeToolTip": "ViewModels\\MemberLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:09:19.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwGAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:56:23.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:58:58.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:03:19.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFkBAAAAAAAAAAAAAGUBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:15:37.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:15:44.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\ViewModels\\AdminLoginVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminLoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\ViewModels\\AdminLoginVm.cs",
+              "RelativeToolTip": "ViewModels\\AdminLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:40:19.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberRegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MemberRegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeToolTip": "ViewModels\\MemberRegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:56:34.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:03:35.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFIAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:15:23.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:08:36.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:58:44.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwE0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:34:37.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "..\\DigiMedia.Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:36:11.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240520113754_UsersTableCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\Migrations\\20240520113754_UsersTableCreate.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Data\\Migrations\\20240520113754_UsersTableCreate.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\Migrations\\20240520113754_UsersTableCreate.cs",
+              "RelativeToolTip": "..\\DigiMedia.Data\\Migrations\\20240520113754_UsersTableCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:37:54.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAzwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:33:18.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:25:08.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAlwIMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:59:26.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:23:14.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:11:04.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:39:43.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DigiMedia.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:35:42.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:16:03.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Business\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "..\\DigiMedia.Business\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAewEMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:45:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "..\\DigiMedia.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewCEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:45:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAABcBAAAAAAAAAIAwwCgBAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:59:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-20T10:57:29.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:59:36.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "..\\DigiMedia.Business\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:52:20.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:00:06.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DigiMedia.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\DigiMedia.Business.csproj",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Business\\DigiMedia.Business.csproj",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\DigiMedia.Business.csproj",
+              "RelativeToolTip": "..\\DigiMedia.Business\\DigiMedia.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T10:51:13.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Exceptions\\FileeNotFoundException.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Business\\Exceptions\\FileeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Exceptions\\FileeNotFoundException.cs",
+              "RelativeToolTip": "..\\DigiMedia.Business\\Exceptions\\FileeNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:50:41.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ImageSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Business\\Exceptions\\ImageSizeException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Exceptions\\ImageSizeException.cs",
+              "RelativeToolTip": "..\\DigiMedia.Business\\Exceptions\\ImageSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:47:34.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ImageContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Exceptions\\ImageContentTypeException.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Business\\Exceptions\\ImageContentTypeException.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Exceptions\\ImageContentTypeException.cs",
+              "RelativeToolTip": "..\\DigiMedia.Business\\Exceptions\\ImageContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:46:55.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Business\\Services\\Abstracts\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Business\\Services\\Abstracts\\ISliderService.cs",
+              "RelativeToolTip": "..\\DigiMedia.Business\\Services\\Abstracts\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:44:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "RelativeToolTip": "..\\DigiMedia.Data\\RepositoryConcretes\\SliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:43:30.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240520104311_CreateSliderTable.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\Migrations\\20240520104311_CreateSliderTable.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Data\\Migrations\\20240520104311_CreateSliderTable.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\Migrations\\20240520104311_CreateSliderTable.cs",
+              "RelativeToolTip": "..\\DigiMedia.Data\\Migrations\\20240520104311_CreateSliderTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:43:12.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-20T10:40:23.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "..\\DigiMedia.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:36:39.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "RelativeToolTip": "..\\DigiMedia.Core\\RepositoryAbstracts\\ISliderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:30:38.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\DigiMedia.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:29:14.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Core\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\Models\\Slider.cs",
+              "RelativeToolTip": "..\\DigiMedia.Core\\Models\\Slider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:25:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\DigiMedia.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r214.14\\Desktop\\SiracHuseynov\\DigiMedia.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "..\\DigiMedia.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:25:25.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

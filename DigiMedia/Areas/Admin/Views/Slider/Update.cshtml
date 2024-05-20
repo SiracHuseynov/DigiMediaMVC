@@ -1,0 +1,30 @@
+﻿@using DigiMedia.Core.Models
+@model Slider
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form method="post" asp-action="Update" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Title</label>
+                    <input asp-for="Title" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail2" class="form-label">Profession</label>
+                    <input asp-for="Profession" class="form-control" id="exampleInputEmail2">
+                    <span asp-validation-for="Profession" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label for="exampleInputEmail1" class="form-label">Image</label>
+                    <input asp-for="ImageFile" class="form-control" id="exampleInputEmail1">
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+

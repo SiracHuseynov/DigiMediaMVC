@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\bin\Debug\net8.0\DigiMedia.Business.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\bin\Debug\net8.0\DigiMedia.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\bin\Debug\net8.0\DigiMedia.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\bin\Debug\net8.0\DigiMedia.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\bin\Debug\net8.0\DigiMedia.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\bin\Debug\net8.0\DigiMedia.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\bin\Debug\net8.0\DigiMedia.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\DigiMedia.Business.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\DigiMedia.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\DigiMedia.Business.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\DigiMedia.Business.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\DigiMedia.Business.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\DigiMedi.B5EB31F0.Up2Date
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\DigiMedia.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\refint\DigiMedia.Business.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\DigiMedia.Business.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Business\obj\Debug\net8.0\ref\DigiMedia.Business.dll

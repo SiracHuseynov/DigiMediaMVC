@@ -1,0 +1,17 @@
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\bin\Debug\net8.0\DigiMedia.Data.deps.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\bin\Debug\net8.0\DigiMedia.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\bin\Debug\net8.0\DigiMedia.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\bin\Debug\net8.0\DigiMedia.Core.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\bin\Debug\net8.0\DigiMedia.Core.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedia.Data.csproj.AssemblyReference.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedia.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedia.Data.AssemblyInfoInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedia.Data.AssemblyInfo.cs
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedia.Data.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedi.A8FC75AD.Up2Date
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedia.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\refint\DigiMedia.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedia.Data.pdb
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\ref\DigiMedia.Data.dll
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\bin\Debug\net8.0\DigiMedia.Data.runtimeconfig.json
+C:\Users\ca.r214.14\Desktop\SiracHuseynov\DigiMedia.Data\obj\Debug\net8.0\DigiMedia.Data.genruntimeconfig.cache
